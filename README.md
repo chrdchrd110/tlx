@@ -9,6 +9,7 @@ This repository contains my solutions to various programming challenges from TLX
 3. **File9.cpp** - Matrix multiplication implementation
 4. **File10.cpp** - Finding minimum and maximum Manhattan distances between points
 5. **File11.cpp** - String manipulation - removing substrings
+   Etc...
 
 ## Problem Statements
 
@@ -34,12 +35,14 @@ Solutions are implemented in C++ and focus on:
 To compile and run any solution:
 
 ```bash
-g++ -std=c++11 filename.cpp -o filename
+g++ -std=c++20 filename.cpp -o filename
 ./filename
 ```
 
+Make sure you have MinGW C++ compiler installed on your machine
+
 ## Notes
 
-- All solutions pass the TLX TOKI test cases
+- Most solutions pass the TLX TOKI test cases
 - Code includes comments for better understanding
 - Input validation is implemented for robustness
